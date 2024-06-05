@@ -1,6 +1,5 @@
 streamlit-audiorec
 numpy
-pickle
 tempfile
 os
 librosa
