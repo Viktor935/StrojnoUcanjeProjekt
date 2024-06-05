@@ -1,5 +1,6 @@
 import streamlit as st
 import time
+import st_audiorec
 from st_audiorec import st_audiorec
 import numpy as np
 import pickle
