@@ -1,6 +1,2 @@
 streamlit-audiorec
-numpy
-tempfile
-os
-librosa
-python_speech_features
+numpy==1.26.4
