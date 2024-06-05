@@ -1,0 +1,9 @@
+streamlit
+time
+streamlit-audiorec
+numpy
+pickle
+tempfile
+os
+librosa
+python_speech_features
