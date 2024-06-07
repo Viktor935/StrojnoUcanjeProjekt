@@ -6,7 +6,6 @@ import numpy as np
 import pickle
 import tempfile
 import os
-import librosa
 from python_speech_features import mfcc
 
 # inicijaliziranje session state-a za snimljeni zvuk i uploadani file
