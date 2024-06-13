@@ -1,3 +1,4 @@
 streamlit-audiorec
 numpy==1.26.4
 python_speech_features
+librosa
