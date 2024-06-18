@@ -7,6 +7,7 @@ import pickle
 import tempfile
 import os
 from python_speech_features import mfcc
+import librosa
 
 # inicijaliziranje session state-a za snimljeni zvuk i uploadani file
 def init_session_state():
